@@ -14,8 +14,7 @@ env/
 .ipynb_checkpoints/
 
 # Local data and generated artifacts
-data/raw/*
-data/processed/*
+ideias.md
 reports/figures/*
 reports/metrics/*
 !data/raw/.gitkeep
