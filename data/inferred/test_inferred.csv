@@ -9,7 +9,7 @@ Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Survived
 3,"Todoroff, Mr. Lalio",male,,0,0,349216,7.8958,,S,0
 3,"Vander Planke, Miss. Augusta Maria",female,18.0,2,0,345764,18.0,,S,0
 3,"Nicola-Yarred, Miss. Jamila",female,14.0,1,0,2651,11.2417,,C,1
-3,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40.0,1,0,7546,9475.0,,S,0
+3,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40.0,1,0,7546,9475.0,,S,1
 1,"Woolner, Mr. Hugh",male,,0,0,19947,35.5,C52,S,0
 1,"Harris, Mr. Henry Birkhardt",male,45.0,1,0,36973,83475.0,C83,S,0
 3,"Moubarek, Master. Gerios",male,,1,1,2661,15.2458,,C,1
@@ -20,29 +20,29 @@ Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Survived
 3,"Slocovski, Mr. Selman Francis",male,,0,0,SOTON/OQ 392086,8.05,,S,0
 1,"Fortune, Miss. Mabel Helen",female,23.0,3,2,19950,263.0,C23 C25 C27,S,1
 3,"Andreasson, Mr. Paul Edvin",male,20.0,0,0,347466,7.8542,,S,0
-1,"Chaffee, Mr. Herbert Fuller",male,46.0,1,0,W.E.P. 5734,61175.0,E31,S,1
+1,"Chaffee, Mr. Herbert Fuller",male,46.0,1,0,W.E.P. 5734,61175.0,E31,S,0
 2,"Kantor, Mr. Sinai",male,34.0,1,0,244367,26.0,,S,0
 3,"Mionoff, Mr. Stoytcho",male,28.0,0,0,349207,7.8958,,S,0
 3,"Salkjelsvik, Miss. Anna Kristine",female,21.0,0,0,343120,7.65,,S,1
 3,"Pekoniemi, Mr. Edvard",male,21.0,0,0,STON/O 2. 3101294,7925.0,,S,0
 3,"McMahon, Mr. Martin",male,,0,0,370372,7.75,,Q,0
-1,"Futrelle, Mr. Jacques Heath",male,37.0,1,0,113803,53.1,C123,S,1
+1,"Futrelle, Mr. Jacques Heath",male,37.0,1,0,113803,53.1,C123,S,0
 3,"Osen, Mr. Olaf Elon",male,16.0,0,0,7534,9.2167,,S,0
-3,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24.0,1,0,STON/O2. 3101279,15.85,,S,0
+3,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24.0,1,0,STON/O2. 3101279,15.85,,S,1
 3,"Burke, Mr. Jeremiah",male,19.0,0,0,365222,6.75,,Q,0
 3,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27.0,0,0,350043,7.7958,,S,0
 3,"van Billiard, Mr. Austin Blyler",male,40.5,0,2,A/5. 851,14.5,,S,0
 3,"Corn, Mr. Harry",male,30.0,0,0,SOTON/OQ 392090,8.05,,S,0
 3,"Cribb, Mr. John Hatfield",male,44.0,0,1,371362,16.1,,S,0
 3,"Bengtsson, Mr. John Viktor",male,26.0,0,0,347068,7775.0,,S,0
-3,"Goldsmith, Master. Frank John William ""Frankie""",male,9.0,0,2,363291,20525.0,,S,0
+3,"Goldsmith, Master. Frank John William ""Frankie""",male,9.0,0,2,363291,20525.0,,S,1
 3,"Sage, Miss. Constance Gladys",female,,8,2,CA. 2343,69.55,,S,0
 3,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,,1,0,370365,15.5,,Q,1
 3,"Mernagh, Mr. Robert",male,,0,0,368703,7.75,,Q,0
 3,"Madigan, Miss. Margaret ""Maggie""",female,,0,0,370370,7.75,,Q,1
 2,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24.0,0,0,248747,13.0,,S,1
 2,"Cameron, Miss. Clear Annie",female,35.0,0,0,F.C.C. 13528,21.0,,S,1
-3,"Honkanen, Miss. Eliina",female,27.0,0,0,STON/O2. 3101283,7925.0,,S,0
+3,"Honkanen, Miss. Eliina",female,27.0,0,0,STON/O2. 3101283,7925.0,,S,1
 2,"Hunt, Mr. George Henry",male,33.0,0,0,SCO/W 1585,12275.0,,S,0
 3,"Murphy, Miss. Katherine ""Kate""",female,,1,0,367230,15.5,,Q,1
 3,"Attalah, Mr. Sleiman",male,30.0,0,0,2694,7225.0,,C,0
@@ -50,8 +50,8 @@ Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Survived
 1,"Stead, Mr. William Thomas",male,62.0,0,0,113514,26.55,C87,S,0
 3,"Tornquist, Mr. William Henry",male,25.0,0,0,LINE,0.0,,S,0
 1,"Andrews, Miss. Kornelia Theodosia",female,63.0,1,0,13502,77.9583,D7,S,1
-3,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35.0,1,1,C.A. 2673,20.25,,S,0
-3,"Haas, Miss. Aloisia",female,24.0,0,0,349236,8.85,,S,0
+3,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35.0,1,1,C.A. 2673,20.25,,S,1
+3,"Haas, Miss. Aloisia",female,24.0,0,0,349236,8.85,,S,1
 1,"Lewy, Mr. Ervin G",male,,0,0,PC 17612,27.7208,,C,0
 3,"Hanna, Mr. Mansour",male,23.5,0,0,2693,7.2292,,C,0
 1,"Allison, Miss. Helen Loraine",female,2.0,1,2,113781,151.55,C22 C26,S,1
@@ -59,7 +59,7 @@ Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Survived
 2,"Slayter, Miss. Hilda Mary",female,30.0,0,0,234818,12.35,,Q,1
 3,"Sage, Mr. George John Jr",male,,8,2,CA. 2343,69.55,,S,0
 3,"Vander Planke, Mr. Leo Edmondus",male,16.0,2,0,345764,18.0,,S,0
-1,"Pears, Mr. Thomas Clinton",male,29.0,1,0,113776,66.6,C2,S,1
+1,"Pears, Mr. Thomas Clinton",male,29.0,1,0,113776,66.6,C2,S,0
 1,"Fortune, Miss. Alice Elizabeth",female,24.0,3,2,19950,263.0,C23 C25 C27,S,1
 3,"Dimic, Mr. Jovan",male,42.0,0,0,315088,8.6625,,S,0
 1,"Williams-Lambert, Mr. Fletcher Fellows",male,,0,0,113510,35.0,C128,S,0
@@ -79,13 +79,13 @@ Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Survived
 3,"Zimmerman, Mr. Leo",male,29.0,0,0,315082,7875.0,,S,0
 2,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19.0,0,0,250655,26.0,,S,1
 3,"Flynn, Mr. James",male,,0,0,364851,7.75,,Q,0
-3,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,,1,0,376564,16.1,,S,0
+3,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,,1,0,376564,16.1,,S,1
 3,"Kallio, Mr. Nikolai Erland",male,17.0,0,0,STON/O 2. 3101274,7125.0,,S,0
 1,"Carter, Miss. Lucile Polk",female,14.0,1,2,113760,120.0,B96 B98,S,1
 3,"Hampe, Mr. Leon",male,20.0,0,0,345769,9.5,,S,0
 3,"Petterson, Mr. Johan Emil",male,25.0,1,0,347076,7775.0,,S,0
 3,"Johannesen-Bratthammer, Mr. Bernt",male,,0,0,65306,8.1125,,S,0
-1,"Seward, Mr. Frederic Kimber",male,34.0,0,0,113794,26.55,,S,1
+1,"Seward, Mr. Frederic Kimber",male,34.0,0,0,113794,26.55,,S,0
 1,"Foreman, Mr. Benjamin Laventall",male,30.0,0,0,113051,27.75,C111,C,1
 3,"Jalsevac, Mr. Ivan",male,29.0,0,0,349240,7.8958,,C,0
 2,"Toomey, Miss. Ellen",female,50.0,0,0,F.C.C. 13531,10.5,,S,1
@@ -93,9 +93,9 @@ Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Survived
 2,"Milling, Mr. Jacob Christian",male,48.0,0,0,234360,13.0,,S,0
 2,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33.0,1,2,C.A. 34651,27.75,,S,1
 2,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23.0,0,0,SC/AH Basle 541,13.7917,D,C,1
-1,"Bishop, Mr. Dickinson H",male,25.0,1,0,11967,91.0792,B49,C,0
+1,"Bishop, Mr. Dickinson H",male,25.0,1,0,11967,91.0792,B49,C,1
 3,"Lefebre, Miss. Jeannie",female,,3,1,4133,25.4667,,S,0
-3,"Coutts, Master. Eden Leslie ""Neville""",male,9.0,1,1,C.A. 37671,15.9,,S,0
+3,"Coutts, Master. Eden Leslie ""Neville""",male,9.0,1,1,C.A. 37671,15.9,,S,1
 1,"Molson, Mr. Harry Markland",male,55.0,0,0,113787,30.5,C30,S,0
 3,"Yousseff, Mr. Gerious",male,,0,0,2627,14.4583,,C,0
 3,"Canavan, Miss. Mary",female,21.0,0,0,364846,7.75,,Q,1
@@ -110,15 +110,15 @@ Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Survived
 2,"Davies, Master. John Morgan Jr",male,8.0,1,1,C.A. 33112,36.75,,S,1
 3,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22.0,0,0,2620,7225.0,,C,0
 1,"Wright, Mr. George",male,62.0,0,0,113807,26.55,,S,0
-3,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36.0,1,0,345572,17.4,,S,0
+3,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36.0,1,0,345572,17.4,,S,1
 3,"Morrow, Mr. Thomas Rowan",male,,0,0,372622,7.75,,Q,0
-3,"Meanwell, Miss. (Marion Ogden)",female,,0,0,SOTON/O.Q. 392087,8.05,,S,0
+3,"Meanwell, Miss. (Marion Ogden)",female,,0,0,SOTON/O.Q. 392087,8.05,,S,1
 3,"Davies, Mr. Alfred J",male,24.0,2,0,A/4 48871,24.15,,S,0
 3,"Stoytcheff, Mr. Ilia",male,19.0,0,0,349205,7.8958,,S,0
 2,"Harris, Mr. George",male,62.0,0,0,S.W./PP 752,10.5,,S,0
 1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53.0,2,0,11769,51.4792,C101,S,1
 2,"Garside, Miss. Ethel",female,34.0,0,0,243880,13.0,,S,1
-3,"Caram, Mrs. Joseph (Maria Elias)",female,,1,0,2689,14.4583,,C,0
+3,"Caram, Mrs. Joseph (Maria Elias)",female,,1,0,2689,14.4583,,C,1
 2,"Christy, Miss. Julie Rachel",female,25.0,1,1,237789,30.0,,S,1
 1,"Frolicher-Stehli, Mr. Maxmillian",male,60.0,1,1,13567,79.2,B41,C,0
 3,"Bourke, Miss. Mary",female,,0,2,364848,7.75,,Q,1
@@ -134,10 +134,10 @@ Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Survived
 1,"Newell, Mr. Arthur Webster",male,58.0,0,2,35273,113275.0,D48,C,0
 1,"Davidson, Mr. Thornton",male,31.0,1,0,F.C. 12750,52.0,B71,S,0
 3,"Sawyer, Mr. Frederick Charles",male,24.5,0,0,342826,8.05,,S,0
-1,"Cardeza, Mr. Thomas Drake Martinez",male,36.0,0,1,PC 17755,512.3292,B51 B53 B55,C,0
+1,"Cardeza, Mr. Thomas Drake Martinez",male,36.0,0,1,PC 17755,512.3292,B51 B53 B55,C,1
 2,"Laroche, Mr. Joseph Philippe Lemercier",male,25.0,1,2,SC/Paris 2123,41.5792,,C,0
-1,"Dick, Mr. Albert Adrian",male,31.0,1,0,17474,57.0,B20,S,1
-1,"Thayer, Mr. John Borland",male,49.0,1,1,17421,110.8833,C68,C,1
+1,"Dick, Mr. Albert Adrian",male,31.0,1,0,17474,57.0,B20,S,0
+1,"Thayer, Mr. John Borland",male,49.0,1,1,17421,110.8833,C68,C,0
 1,"Silverthorne, Mr. Spencer Victor",male,35.0,0,0,PC 17475,26.2875,E24,S,1
 3,"Gallagher, Mr. Martin",male,25.0,0,0,36864,7.7417,,Q,0
 1,"Taylor, Mr. Elmer Zebley",male,48.0,1,0,19996,52.0,C126,S,0
@@ -147,7 +147,7 @@ Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Survived
 1,"Allen, Miss. Elisabeth Walton",female,29.0,0,0,24160,211.3375,B5,S,1
 3,"Hassan, Mr. Houssein G N",male,11.0,0,0,2699,18.7875,,C,0
 3,"McNamee, Mr. Neal",male,24.0,1,0,376566,16.1,,S,0
-1,"Crosby, Capt. Edward Gifford",male,70.0,1,1,WE/P 5735,71.0,B22,S,1
+1,"Crosby, Capt. Edward Gifford",male,70.0,1,1,WE/P 5735,71.0,B22,S,0
 3,"Connaghton, Mr. Michael",male,31.0,0,0,335097,7.75,,Q,0
 3,"Vande Velde, Mr. Johannes Joseph",male,33.0,0,0,345780,9.5,,S,0
 3,"Carlsson, Mr. August Sigfrid",male,28.0,0,0,350042,7.7958,,S,0
@@ -158,7 +158,7 @@ Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Survived
 3,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,18.0,0,0,347078,7.75,,S,0
 3,"Tobin, Mr. Roger",male,,0,0,383121,7.75,F38,Q,0
 3,"Keane, Mr. Andrew ""Andy""",male,,0,0,12460,7.75,,Q,0
-3,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30.0,1,1,345773,24.15,,S,0
+3,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30.0,1,1,345773,24.15,,S,1
 1,"Carter, Master. William Thornton II",male,11.0,1,2,113760,120.0,B96 B98,S,1
 3,"Hedman, Mr. Oskar Arvid",male,27.0,0,0,347089,6975.0,,S,0
 3,"Alexander, Mr. William",male,26.0,0,0,3474,7.8875,,S,0
@@ -166,7 +166,7 @@ Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Survived
 2,"Mallet, Mr. Albert",male,31.0,1,1,S.C./PARIS 2079,37.0042,,C,0
 3,"Moor, Mrs. (Beila)",female,27.0,0,1,392096,12475.0,E121,S,1
 3,"Panula, Master. Urho Abraham",male,2.0,4,1,3101295,39.6875,,S,0
-3,"Lam, Mr. Len",male,,0,0,1601,56.4958,,S,1
+3,"Lam, Mr. Len",male,,0,0,1601,56.4958,,S,0
 2,"Mudd, Mr. Thomas Charles",male,16.0,0,0,S.O./P.P. 3,10.5,,S,0
 1,"Lines, Miss. Mary Conover",female,16.0,0,1,PC 17592,39.4,D28,S,1
 3,"Hansen, Mr. Claus Peter",male,41.0,2,0,350026,14.1083,,S,0
